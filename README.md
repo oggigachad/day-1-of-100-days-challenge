@@ -1,7 +1,7 @@
 🌟 Day 1 of Coding: The Beginning of a Journey!
 "The journey of a thousand miles begins with a single step." – Lao Tzu
 
-🚀 Today marks the first step towards mastering coding and achieving my goal of a 1 crore+ package! Starting with the basics, sharpening problem-solving skills, and staying consistent.
+🚀 Today marks the first step towards mastering coding and achieving my goal of a 10 Lakh package! Starting with the basics, sharpening problem-solving skills, and staying consistent.
 
 🔥 What I Did Today?
 ✅ Revised C++ basics (Syntax, Loops, Conditionals)
