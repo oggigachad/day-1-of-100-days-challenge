@@ -1,0 +1,21 @@
+.button1 {
+    padding: 10px 20px;
+    background-color: green;
+    color: black;
+    border: 0cap;
+    cursor: pointer;
+    box-shadow: 5px 7px;
+}
+
+.button2 {
+    padding: 10px 20px;
+    background-color: green;
+    color: black;
+    border: 0cm;
+    cursor: pointer;
+    box-shadow: 5px 7px;
+}
+
+body {
+    background: blueviolet;
+}
